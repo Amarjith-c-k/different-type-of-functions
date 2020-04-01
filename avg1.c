@@ -1,7 +1,5 @@
 //function no argument no return
-./configure
-make
-make check
+
 
 #include<stdio.h>
 int avg();
